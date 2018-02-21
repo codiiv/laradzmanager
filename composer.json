@@ -1,0 +1,26 @@
+{
+  "name": "codiiv/laradzmanager",
+  "description": "A laravel media manager using Dropzone.js",
+  "keywords": ["laravel","admin", "cms", "dropzone"],
+  "homepage": "https://github.com/codiiv/laradzmanager",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Janvier M",
+      "email": "janviersoft@gmail.com",
+      "homepage": "https://www.codiiv.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Codiiv\\Laradzmanager\\": "vendor/codiiv/laradzmanager/src"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "laravel/framework": "5.6.*"
+  },
+  "require-dev": {
+      "laravel/laravel": "5.6."
+  }
+}

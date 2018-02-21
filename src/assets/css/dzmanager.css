@@ -1,0 +1,61 @@
+.cell {
+    display: inline-block;
+    vertical-align: middle;
+}
+.left-menu ul {
+    min-height: 30rem;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.left-menu ul li{
+    padding: 0;
+    margin: 0;
+}
+.btn.btn-primary.start {
+    background-color: #196072;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    border-radius: 0.2rem;
+    margin-top: 1rem;
+    max-width: 20rem;
+    cursor: pointer;
+    margin: auto;
+}
+.dropzone {
+    border: none;
+    width: 90%;
+    margin: 1rem auto;
+}
+.dz-default.dz-message {
+    border: 4px dashed #ccc;
+    padding: 4rem;
+}
+.left-menu ul li {
+    background-color: #24C7F4;
+    color: #fff;
+    padding: 1rem 0.5rem;
+}
+.left-menu {
+    background-color: #196072;
+    min-height: 60rem;
+}
+.right-content {
+    background-color: #92c4d1;
+    min-height: 60rem;
+}
+.dropzone .dz-preview .dz-image {
+    width: 100%;
+    height: 100%;}
+.dropzone .dz-preview .dz-image img {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.imageurlpreview {
+    width: 100%;
+    margin-top: 1rem;
+}
