@@ -8,7 +8,7 @@
 Add the composer repository to your Laravel *composer.json* file:
 
 ```json
-  "codiiv/laradzmanager" : "~1.0.*"
+  "codiiv/laradzmanager" : "~1.0"
 ```
 And run ```composer update```.
 
